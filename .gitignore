@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.idx
 .Python
 build/
 develop-eggs/
@@ -128,6 +129,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+time_venv
 .env
 .venv
 env/
@@ -169,3 +171,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+etc
+share
+Scripts
+Lib
+include
